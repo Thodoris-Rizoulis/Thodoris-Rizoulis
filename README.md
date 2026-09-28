@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Thodoris 👋
 
-<!--
-**Thodoris-Rizoulis/Thodoris-Rizoulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Thessaloniki, Greece. I build **LLM-powered products that run real business processes**. I've shipped production LLM features since GPT-3.5 Turbo (2023).
 
-Here are some ideas to get you started:
+**At work (AMD Telecom):**
+- 🤖 Built an AI recruiting platform end to end: generated interview forms, email/SMS candidate workflows, automatic scheduling and AI scoring. Used for 100+ job openings and ~5,000 candidates.
+- 🧾 Built AI invoice processing that reads ~200 supplier invoices a month from email and posts them to the ERP with no manual entry. In production for 2+ years.
+- 💸 Automated client payments: bank transfers detected → accounts topped up → invoices issued.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · Node.js · Next.js · React · Python · PostgreSQL · Docker · OpenAI & Anthropic APIs
+
+**Currently building:** a production-grade document-intelligence service with RAG, evals and an MCP server (Python/FastAPI, pgvector, AWS).
+
+📫 [rizoulis.com](https://rizoulis.com) · [LinkedIn](https://www.linkedin.com/in/thodoris-rizoulis-929811277)
